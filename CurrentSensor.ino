@@ -1,6 +1,7 @@
 /* Arduino code for measuring current with ACS712 Hall effect current sensor
 **This project is a test code for the coming Measurements and Circuits 
 **course project ,Dept. of Electrical and Electronics Engineering ,MITS
+***Contributors Anfaz^ ArniPrem^ AnaghaRavikumar^ AswinLal^
 */
 
 
