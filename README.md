@@ -62,14 +62,9 @@
    - Optimize the code for better performance.
    - Enhance the user interface with more detailed information on the LCD.
 
-**13. Questions/Clarifications:**
-   - The report is based on the provided code. If there are specific functionalities or sections that need more explanation, please specify.
 
-**14. Recommendations:**
-   - Consider adding comments to the code for better readability and maintenance.
-   - Test the system in various scenarios to ensure accurate readings and reliable performance.
 
-**15. Acknowledgments:**
+**13. Acknowledgments:**
    - The code includes snippets for musical notes and introductory melody, credited to Robson Couto.
 
-This report provides an overview of the energy meter project, explaining the code's structure, functionality, and potential areas for improvement.
+
