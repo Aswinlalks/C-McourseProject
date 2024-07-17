@@ -1,6 +1,8 @@
 # C-McourseProject
 **Measurements and Circuits course project ,Dept. of Electrical and Electronics Engineering ,MITS** 
 
+![](https://aswinlalks.github.io/itsMeAswinLal/images/Project_1.png)
+
 
 **Project Overview: Energy Meter with Buzzer and LCD Display**
 
